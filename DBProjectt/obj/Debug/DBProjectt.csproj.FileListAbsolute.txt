@@ -1,0 +1,52 @@
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\bin\Debug\DBProjectt.exe.config
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\bin\Debug\DBProjectt.exe
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\bin\Debug\DBProjectt.pdb
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.csproj.AssemblyReference.cache
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.Form1.resources
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.Form2.resources
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.Properties.Resources.resources
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.csproj.GenerateResource.cache
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.exe
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.pdb
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.Form3.resources
+C:\Users\Ash\Downloads\New folder (12)\DBProjectt\obj\Debug\DBProjectt.Form4.resources
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\DBProjectt.exe.config
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\DBProjectt.exe
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\DBProjectt.pdb
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\EntityFramework.dll
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\EntityFramework.xml
+D:\ITI\ADO .Net\DBProjectt\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.csproj.AssemblyReference.cache
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.csproj.SuggestedBindingRedirects.cache
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.Form1.resources
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.Form2.resources
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.Form3.resources
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.Form4.resources
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.Properties.Resources.resources
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.csproj.GenerateResource.cache
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.csproj.CoreCompileInputs.cache
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.csproj.CopyComplete
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.exe
+D:\ITI\ADO .Net\DBProjectt\obj\Debug\DBProjectt.pdb
+D:\ITI\DB2\DBProjectt\bin\Debug\DBProjectt.exe.config
+D:\ITI\DB2\DBProjectt\bin\Debug\DBProjectt.exe
+D:\ITI\DB2\DBProjectt\bin\Debug\DBProjectt.pdb
+D:\ITI\DB2\DBProjectt\bin\Debug\EntityFramework.dll
+D:\ITI\DB2\DBProjectt\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\DB2\DBProjectt\bin\Debug\EntityFramework.xml
+D:\ITI\DB2\DBProjectt\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.csproj.AssemblyReference.cache
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.csproj.SuggestedBindingRedirects.cache
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.Form1.resources
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.Form2.resources
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.Form3.resources
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.Form4.resources
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.Properties.Resources.resources
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.csproj.GenerateResource.cache
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.csproj.CoreCompileInputs.cache
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.csproj.CopyComplete
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.exe
+D:\ITI\DB2\DBProjectt\obj\Debug\DBProjectt.pdb
